@@ -34,6 +34,10 @@ p{
 	clear: right;
 	margin: 5px;
 	margin-top: 0px;
+	font-size: 1.3em;
+	text-align: justify;
+	font-family: serif, Monospace;
+	line-height: 1.2;
 }
 .row{
 	width: 100%;
